@@ -1,0 +1,3 @@
+# ByteSpace
+
+Frontend assessment project.
